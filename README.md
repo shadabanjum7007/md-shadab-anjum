@@ -9,7 +9,7 @@
 - C / C++
 - Data Structures & Algorithms
 - Problem Solving
-- Basic Web Development
+- Web Development(html,css,javascript)
 
 ---
 
@@ -20,6 +20,5 @@
 ---
 
 ## 🔥 Goals
-- Crack GATE CSE
 - Become a Software Engineer
-- Build impactful real-world projects
+
